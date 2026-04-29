@@ -1,4 +1,4 @@
-# Accredian Enterprise — Landing Page Clone
+# Accredian Enterprise 
 
 A production-grade, internship-level clone of [enterprise.accredian.com](https://enterprise.accredian.com) built with Next.js 16 App Router, Tailwind CSS v4, shadcn/ui, and Framer Motion.
 
